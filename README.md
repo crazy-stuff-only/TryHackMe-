@@ -1,1 +1,1 @@
-# my try hack me write-ups 
+# THM journey 
